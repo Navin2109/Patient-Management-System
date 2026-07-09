@@ -63,11 +63,11 @@ public class Patient {
         this.address = address;
     }
 
-    public LocalDate getBirthDate() {
+    public LocalDate getDateOfBirth() {
         return dateOfBirth;
     }
 
-    public void setBirthDate(LocalDate dateOfBirth) {
+    public void setDateOfBirth(LocalDate dateOfBirth) {
         this.dateOfBirth = dateOfBirth;
     }
 
